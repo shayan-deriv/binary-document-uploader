@@ -2,3 +2,6 @@ yarn.lock
 documentUploader.js
 node_modules
 .idea/
+.env
+.env.*
+*.env
